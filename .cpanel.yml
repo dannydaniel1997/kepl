@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/alanku1h/kepl.alankaracademy.com/
+    - /bin/cp * $DEPLOYPATH
